@@ -18,5 +18,14 @@ The **Tic-Tac-Toe game using AI and the Minimax algorithm** is a great project f
    - Implementing Tic-Tac-Toe with Minimax helps you practice **algorithmic thinking** and problem-solving. You not only write the logic for the game but also optimize the AI’s performance, introducing concepts like **pruning** (Alpha-Beta pruning) to enhance efficiency.
 
 In summary, this project teaches game development, AI strategy, and algorithmic problem-solving in a fun and understandable way, making it a valuable learning experience.
+### Some Images:
+![snapshot1](https://github.com/user-attachments/assets/298905d0-7ba5-4ced-96e0-71ce6b14aa2f)
+
+![snapshot2](https://github.com/user-attachments/assets/d40eb0f2-4b91-4663-995b-268121b57030)
+
+![snapshot3](https://github.com/user-attachments/assets/b95cde63-1091-4a82-81a1-ff58de568e53)
+
+
+
 ### Note:
 If it shows problem while importing accesscon file make sure it has the type .py
